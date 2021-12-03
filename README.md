@@ -144,24 +144,24 @@ you can contact us
 ```
 
   <p align="center">
-  <a href="https://github.com/pepesir/PEPE-SIR">
+  <a href="https://github.com/NIJIN-MUNNA/MUNNA-SIR">
     
 <a href="https:https://github.com/pepesir?tab=followers">
-<img src="https://img.shields.io/github/repo-size/pepesir/PEPE-SIR?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/NIJIN-MUNNA/MUNNA-SIR?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/pepesir/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/pepesir?color=blue&style=flat-square"></a>
-<a href="https://github.com/pepesir/PEPE-SIR/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/pepesir/PEPE-SIR?color=blue&style=flat-square"></a>
-<a href="https://github.com/pepesir/PEPE-SIR/network/members"><img title="Forks" src="https://img.shields.io/github/forks/pepesir/PEPE-SIR?color=blue&style=flat-square"></a>
-<a href="https://github.com/pepesir/PEPE-SIR/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/pepesir/PEPE-SIR?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/NIJIN-MUNNA/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/NIJIN-MUNNA?color=blue&style=flat-square"></a>
+<a href="https://github.com/NIJIN-MUNNA/MUNNA-SIR/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/NIJIN-MUNNA/MUNNA-SIR?color=blue&style=flat-square"></a>
+<a href="https://github.com/NIJIN-MUNNA/MUNNA-SIR/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NIJIN-MUNNA/MUNNA-SIR?color=blue&style=flat-square"></a>
+<a href="https://github.com/NIJIN-MUNNA/MUNNA-SIR/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/NIJIN-MUNNA/MUNNA-SIR?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 <p align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pepesir&show_icons=true&theme=dark&locale=en" alt="pepesir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NIJIN-MUNNA&show_icons=true&theme=dark&locale=en" alt="NIJIN-MUNNA" /></p>
     
   <div align="center">
        
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pepesir&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NIJIN-MUNNA&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
   </div>
  
 
